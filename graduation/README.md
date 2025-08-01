@@ -12,8 +12,8 @@ to make the project work
 this is a simple store using react.js 
 we use a fake api => https://fakestoreapi.com/
 
-<!-- the structure of the project -->
- <!-- 
+the structure of the project -->
+ 
   1 => Home
     a link holds the main page of the store when you click on home link the main page  appears
  
@@ -34,6 +34,6 @@ we use a fake api => https://fakestoreapi.com/
   
   7 => sign in
      a page to sign up the website
-  -->
+ 
 
  the structure of the wesite can not wrok with out app.jsx which use router dom
